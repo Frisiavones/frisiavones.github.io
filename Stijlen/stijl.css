@@ -1,0 +1,39 @@
+html {
+  font-size: 10px; /* px betekent 'pixels': de basislettergrootte is nu 10 pixels hoog  */
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: darkblue!important;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 5px 50px 5px 50px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 10px 0;    
+  color: #00539F;
+  text-shadow: 5px -5px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
